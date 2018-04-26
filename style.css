@@ -1,4 +1,21 @@
+a {
+  color: white;
+}
 h1 {
   font-size: 70px;
-  color: black;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+}
+ul {
+  padding: 10px;
+  background: #2F4F4F;
+  font-size: 30px;
+  font-family: verdana;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
 }
